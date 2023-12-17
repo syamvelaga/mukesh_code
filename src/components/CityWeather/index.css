@@ -1,0 +1,14 @@
+.cityWeatherContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
+  padding: 20px;
+  margin: 2px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 25px;
+}
